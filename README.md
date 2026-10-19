@@ -51,25 +51,25 @@ The interactive dashboard is organised into four pages covering overall consumpt
 
 Summarises household expenditure indicators, state-wise consumption patterns, and differences between rural and urban households.
 
-![Household Consumption Overview](dashboard_page_1.png)
+![Household Consumption Overview](images/dashboard_page_1.png)
 
 ### Page 2 — Household Segmentation & Cluster Profiles
 
 Examines the distribution of households across six clusters and compares household size, median monthly expenditure, and median per-capita expenditure across segments.
 
-![Household Segmentation and Cluster Profiles](dashboard_page_2.png)
+![Household Segmentation and Cluster Profiles](images/dashboard_page_2.png)
 
 ### Page 3 — State & Household Profiles
 
 Explores rural–urban household distribution, household-size composition, the relationship between household size and per-capita expenditure, and geographic spending patterns.
 
-![State and Household Profiles](dashboard_page_3.png)
+![State and Household Profiles](images/dashboard_page_3.png)
 
 ### Page 4 — Digital Consumption & Business Implications
 
 Analyses online spending participation across states, the relationship between online and total expenditure, and rural–urban differences in average online expenditure.
 
-![Digital Consumption and Business Implications](dashboard_page_4.png)
+![Digital Consumption and Business Implications](images/dashboard_page_4.png)
 
 ## Methodology
 
